@@ -1,0 +1,3 @@
+ machine learning is making the machines to learn itself. 
+    Machine Learning (ML) is a branch of Artificial Intelligence that focuses on building systems capable of learning patterns from data and making predictions or decisions without being explicitly programmed. It involves training algorithms on historical datasets so they can identify trends, classify information, or forecast future outcomes. ML techniques range from simple models like linear regression to complex neural networks that power modern applications such as speech recognition, recommendation systems, fraud detection, and medical diagnostics. By continuously improving with more data, 
+    ML enables businesses and researchers to uncover insights, automate processes, and solve problems at scale.
